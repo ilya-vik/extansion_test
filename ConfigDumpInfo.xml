@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="CommonModule.Расш1_ОбщегоНазначения" id="760363cb-4fe1-49da-98a3-5ced3f9e0bdc" configVersion="1a41a0b8a64150ac0c5f2e30bb6f114617358b56"/>
+		<Metadata name="CommonModule.Расш1_ОбщегоНазначения.Module" id="760363cb-4fe1-49da-98a3-5ced3f9e0bdc.0" configVersion="e205eb8a2ab89a82d46b22332c0e50777bb19be2"/>
+		<Metadata name="Configuration.Расширение1_test_git" id="8009e901-e23e-4099-b249-1181b528f4a1" configVersion="e2866db693f5543851074919e43441f3c82652e5"/>
+		<Metadata name="Language.Русский" id="8986745d-2630-400f-9563-7279ccbcb75b" configVersion="30852435a41f8db8480f18c70e5c1d517104dec7"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="c7bcdc5c-fbd6-4ca2-82bc-c080876d3420" configVersion="dfe44b64d61afbaf8e688eaeb5552e22d57bfd84"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
